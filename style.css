@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body  {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+          background-color: #fff3e0; /* Light yellow background */
+      }
+header, footer {
+          background-color: #d84315; /* Dark orange */
+          color: #ffffff; /* White text */
+          text-align: center;
+          padding: 1em 0;
+      }
+main {
+          padding: 2em;
+          color: #4e342e; /* Dark brown text */
+      }
+p {
+          background-color: #ffcc80; /* Light orange background for paragraphs */
+          padding: 1em;
+          border-radius: 8px;
+      }
